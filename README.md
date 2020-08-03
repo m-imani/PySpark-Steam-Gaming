@@ -1,4 +1,4 @@
-# PySpark-Steam-Gaming/ Working with Steam Gaming datasets in PySpark
+# PySpark-Steam-Gaming/ Working with Steam Gaming dataset in PySpark
 Background: Steam is one of the largest gaming networks in the world with over 100 million active gamers. The Steam dataset covers 109 million user accounts, 196 million friendships, 3 million groups, 384 million owned games, and a collective 1 million years of playtime.
 You can find out more here about the details of each dataset: https://steam.internet.byu.edu/
 
